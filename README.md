@@ -137,15 +137,15 @@ npm start
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-A 3–5 minute demo video is included explaining:
+A 3–5 minute demo explaining the project:
 
-* Scraping approach
-* API functionality
-* Dashboard features
-*🔗 Video Link: https://drive.google.com/file/d/1CimDqilFn6a1kwedd-1611u7mEtFyZNq/view?usp=sharing
----
+- Scraping approach
+- API functionality
+- Dashboard features
+
+🔗 Video Link:[https://drive.google.com/file/d/1CimDqilFn6a1kwedd-1611u7mEtFyZNq/view?usp=sharing]
 
 ## ✅ Conclusion
 

@@ -29,7 +29,9 @@ This project is a full-stack data pipeline and dashboard that:
 
 **Data Processing:**
 
-* Python (Pandas)
+* Excel (initial inspection & basic cleaning)
+* SQL (data validation, deduplication, structuring)
+* Python (Pandas – combining multiple CSV files)
 
 ---
 
@@ -37,11 +39,12 @@ This project is a full-stack data pipeline and dashboard that:
 
 * 📌 Scraped business listings data from multiple sources
 * 🧹 Data cleaning and preprocessing
-* 🌆 Filtering by city and source
+* 🌆 Filtering by city, category and source
 * 📊 Interactive charts and metrics:
 
   * Total Listings
   * Listings by City
+  * Listings by Category
   * Listings by Source
 * 🔗 REST API integration between frontend and backend
 

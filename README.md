@@ -55,7 +55,7 @@ This project is a full-stack data pipeline and dashboard that:
 ```
 project-root/
 │
-├── frontend/        # React dashboard
+├── dashboard/        # React dashboard
 ├── backend/         # Node.js APIs
 ├── database/
 │   ├── business_db.sql
